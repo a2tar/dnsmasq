@@ -1,5 +1,5 @@
 name    'a2tar-dnsmasq'
-version '0.1.1'
+version '0.1.2'
 source 'https://github.com/a2tar/dnsmasq.git'
 author 'a2tar'
 license 'MIT'
